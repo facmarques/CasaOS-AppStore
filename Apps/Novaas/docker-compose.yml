@@ -33,10 +33,10 @@ x-casaos:
     - s390x
     - arm
   main: novaas
-  author: CasaOS Team
+  author: CasaOS Teamßß
   category: Developer
   description:
-    en_us: Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+    en_us: NOVAAS is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
     zh_cn: Node-RED是一种编程工具，可将硬件设备，API和在线服务以新颖的方式连接在一起。它提供了一个基于浏览器的编辑器，可以轻松地将流连接在一起，使用调色板中的各种节点，可以在单击中将其部署到其运行时。
     ar_sa: Node-RED هو أداة برمجة لتوصيل أجهزة الكمبيوتر والواجهات البرمجية والخدمات عبر الإنترنت بطرق جديدة ومثيرة للاهتمام. يوفر محرراً مستنداً إلى المتصفح يسهل على المستخدم توصيل التدفقات باستخدام مجموعة واسعة من العقد المتوفرة في لوحة الأدوات التي يمكن توزيعها على تشغيلها في زر واحد.
     de_de: Node-RED ist ein Programmierwerkzeug zum Verbinden von Hardwaregeräten, APIs und Online-Diensten auf neue und interessante Weise. Es bietet einen Browser-basierten Editor, mit dem es einfach ist, Flows mithilfe der breiten Palette von Knoten zu verbinden, die mit einem einzigen Klick auf die Laufzeit verteilt werden können.
@@ -53,8 +53,6 @@ x-casaos:
   icon: https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Node-RED/icon.png
   screenshot_link:
     - https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Node-RED/screenshot-1.png
-    - https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Node-RED/screenshot-2.png
-    - https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/Node-RED/screenshot-3.png
   tagline:
     en_us: Low-code programming for event-driven applications
     zh_cn: 用于事件驱动应用程序的低代码编程
