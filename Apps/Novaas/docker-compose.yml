@@ -1,7 +1,7 @@
 name: novaas
 services:
   novaas:
-    image: registry.gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas
+    image: registry.gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas:808402e4de750530e5970b4fc247dfb968dd0075
     deploy:
       resources:
         reservations:
@@ -10,7 +10,7 @@ services:
     ports:
       - target: 1880
         published: "1880"
-        protocol: tcp
+        protocol: tcp 
     restart: always
     volumes:
       - type: bind
